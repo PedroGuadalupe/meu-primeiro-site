@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+
+h1{
+    color:yellowgreen
+}
+
+#titulo-principal{
+    font-size: 45px;
+    color:purple
+}
+
+img{
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+
+.legenda{
+    color: rgb(56, 56, 56);
+    font-size: 80%;
+}
+
+.secao{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a{
+    display: block;
+    background-color: aquamarine;
+    padding: 15px;
+    margin: 50px 600px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    border-radius: 30px;
+}
